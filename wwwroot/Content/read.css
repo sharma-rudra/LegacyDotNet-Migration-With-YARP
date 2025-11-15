@@ -1,0 +1,30 @@
+﻿
+.comment {
+    border-radius:15px; 
+    width:60%; 
+    margin-bottom:10px; 
+    background-color:aquamarine;
+}
+
+.comment-info {
+    background-color:darkseagreen;
+    border-radius:10px; 
+    padding:5px; 
+    margin-bottom:5px
+}
+
+.comment-text {
+    padding:5px;
+}
+
+.comment-time {
+    float:right;
+}
+
+.larger-font{
+    font-size:2rem;
+}
+
+.title-font {
+    font-size: 2.5rem;
+}
